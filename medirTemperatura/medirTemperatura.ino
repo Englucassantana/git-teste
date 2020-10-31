@@ -1,4 +1,4 @@
-#define LED_VERDE  11
+#define LED_AZUL  11
 #define LED_AMARELO  12
 #define LED_VERMELHO  13
 #define TMP36 A0 
